@@ -10,12 +10,14 @@
     "prod": "webpack -p --config webpack.prod.config.js --progress --colors"
   },
   "dependencies": {
+    "babel-polyfill": "^6.23.0",
     "classnames": "^2.2.5",
     "isomorphic-fetch": "^2.2.1",
     "react": "^15.1.0",
     "react-dom": "^15.1.0",
     "react-hot-loader": "^3.0.0-beta.1",
     "react-redux": "^4.4.5",
+    "react-router-dom": "^4.1.1",
     "redux": "^3.5.2",
     "redux-thunk": "^2.1.0"
   },

@@ -1,0 +1,41 @@
+﻿.sa-header {
+    background-color: #140E39;
+    height: 120px;
+    color: white;
+    flex: 1 100%;
+}
+
+.sa-header--red {
+    height: 40px;
+    background-color: #C1272D;
+}
+
+.sa-header--tittle {
+    padding-left: 15px;
+}
+
+.sa-link--alert {
+    color: #FF0000;
+    float: right;
+    margin-top: -80px;
+}
+
+.sa-header-logout--button {
+    cursor: pointer;
+    float: right;
+    margin-top: -60px;
+    min-width: 90px;
+    background-color: #4C7FB4;
+    color: white;
+    margin-right: 5px;
+    border: none;
+    padding: 10px;
+}
+
+.sa-alers--message {
+    cursor: pointer;
+    float: right;
+    margin-right: 100px;
+    margin-top: -54px;
+    color: white;
+}
